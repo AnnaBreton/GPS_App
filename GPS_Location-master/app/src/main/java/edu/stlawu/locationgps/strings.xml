@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPSdistance</string>
+    <string name="start">start</string>
+    <string name="newPosition">new</string>
+    <string name="stop">stop</string>
+    <string name="totalDistance">Total Distance</string>
+    <string name="currentSpeed">current speed</string>
+</resources>
